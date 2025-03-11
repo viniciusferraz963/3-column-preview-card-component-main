@@ -1,7 +1,7 @@
 # "Projeto 3-column-preview-card-component-main
 "
 
-## Projeto do site Front end Mentor, onde o intuito é a disponibilizar projetos práticos para desenvolvedores juniores.
+## Projeto do site Front end Mentor, onde o intuito é a disponibilizar projetos práticos.
 
 ## Tecnologias utilizadas
 
